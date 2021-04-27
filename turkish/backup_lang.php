@@ -14,3 +14,4 @@ $lang['utility_backup_table_backupsize'] = 'Yedekleme Boyutu';
 $lang['utility_backup_table_backupdate'] = 'Tarih';
 $lang['utility_db_backup_note']          = 'Not: PHP için sınırlı yürütme süresi ve belleği nedeniyle, çok büyük veritabanlarının yedeklenmesi mümkün olmayabilir. Veritabanınız çok büyükse komut satırından doğrudan SQL sunucunuzdan yedekleme yapmanız gerekebilir veya root yetkiniz yoksa sunucu yöneticiniz sizin için yapabilir.';
 $lang['delete_backups_older_then']       = 'Yedeklemeleri daha sonra X gününden önce otomatik olarak sil (devre dışı bırakmak için 0 olarak ayarlayın)';
+$lang['auto_backup_hour']                = 'Hour of day to perform backup';

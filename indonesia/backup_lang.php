@@ -15,3 +15,4 @@ $lang['utility_backup_table_backupsize'] = 'Ukuran Backup';
 $lang['utility_backup_table_backupdate'] = 'Tanggal';
 $lang['utility_db_backup_note']          = 'Catatan: Karena waktu eksekusi dan memori yang tersedia untuk PHP terbatas, back up database yang sangat besar mungkin tidak dapat dilakukan. Jika database Anda sangat besar Anda mungkin perlu untuk backup langsung dari SQL server Anda melalui baris perintah, atau minta admin server Anda melakukannya untuk Anda jika Anda tidak memiliki hak akses root.';
 $lang['delete_backups_older_then']       = 'Otomatis hapus cadangan yang lebih lama dari X hari (setel 0 untuk menonaktifkan)';
+$lang['auto_backup_hour']                = 'Hour of day to perform backup';

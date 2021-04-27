@@ -14,3 +14,4 @@ $lang['utility_backup_table_backupsize'] = 'Tamanho do Backup';
 $lang['utility_backup_table_backupdate'] = 'Data';
 $lang['utility_db_backup_note']          = 'Nota: Devido ao tempo de execução limitado e memória disponível para o PHP, o backup de grandes bases de dados pode NÃO ser possível. Se seu banco de dados é muito grande, você pode precisar de backup diretamente do seu servidor SQL, via linha de comando, ou solicitar ao seu administrador do servidor para fazê-la para você, se você não tiver os privilégios de root.';
 $lang['delete_backups_older_then']       = 'Deletar automaticamente backups mais antigos do que X dias (definir 0 para desativar)';
+$lang['auto_backup_hour']                = 'Hour of day to perform backup';

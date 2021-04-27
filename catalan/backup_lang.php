@@ -14,3 +14,4 @@ $lang['utility_backup_table_backupsize'] = 'Tamany còpia seguretat';
 $lang['utility_backup_table_backupdate'] = 'Data';
 $lang['utility_db_backup_note']          = 'Nota: Degut al temps d\'execució limitat i memòria disponible per a PHP, pot ser que no es puguin fer còpies de seguretat de bases de dades molt grans. Si la seva base de dades és molt gran potser haurà de fer còpies de seguretat directament des del seu servidor SQL, o demanar que li ho faci l\'administrador del servidor si vostè no té privilegis de root.';
 $lang['delete_backups_older_then']       = 'Auto esborrar còpies de seguretat que tinguin més de X dies (establir a 0 per desactivar-ho)';
+$lang['auto_backup_hour']                = 'Hour of day to perform backup';

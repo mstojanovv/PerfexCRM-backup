@@ -13,3 +13,4 @@ $lang['utility_backup_table_backupsize'] = 'Μέγεθος Backup';
 $lang['utility_backup_table_backupdate'] = 'Ημερομηνία';
 $lang['utility_db_backup_note']          = 'Note: Due to the limited execution time and memory available to PHP, backing up very large databases may not be possible. If your database is very large you might need to backup directly from your SQL server via the command line, or have your server admin do it for you if you do not have root privileges.';
 $lang['delete_backups_older_then']       = 'Αυτόματη διαγραφή αντιγράφων μεγαλύτερων από X ημέρες (ορίστε 0 για απενεργοποίηση)';
+$lang['auto_backup_hour']                = 'Hour of day to perform backup';

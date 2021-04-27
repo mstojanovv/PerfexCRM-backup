@@ -15,3 +15,4 @@ $lang['utility_backup_table_backupsize'] = 'バックアップのサイズ';
 $lang['utility_backup_table_backupdate'] = '日付';
 $lang['utility_db_backup_note']          = 'NB: 実行時間のリミットとPHPにあるメモリーにより、膨大なデーターベースのバックアップは可能ではありません。もしデーターベースが膨大である場合、コマンドラインから貴方のSQLサーバーを直接バックアップするか、又はルート権がなければ貴方の管理サーバーよりバックアップする必要があります。';
 $lang['auto_backup_options_updated']     = '自動バックアップオプションはアップデートされました';
+$lang['auto_backup_hour']                = 'Hour of day to perform backup';

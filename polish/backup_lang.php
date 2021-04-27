@@ -15,3 +15,4 @@ $lang['utility_backup_table_backupname'] = 'Kopia zapasowa';
 $lang['utility_backup_table_backupsize'] = 'Rozmiar kopii zapasowej';
 $lang['utility_backup_table_backupdate'] = 'Data';
 $lang['utility_db_backup_note']          = 'Uwaga: Z powodu ograniczonego czasu wykonania i pamięci dostępnej dla PHP, tworzenie kopii zapasowych bardzo dużych baz danych może nie być możliwe. Jeśli twoja baza danych jest bardzo duża, możesz potrzebować kopii zapasowej bezpośrednio z serwera SQL za pomocą wiersza poleceń lub zlecić administratorowi serwera, jeśli nie masz uprawnień roota.';
+$lang['auto_backup_hour']                = 'Hour of day to perform backup';

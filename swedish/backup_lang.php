@@ -15,3 +15,4 @@ $lang['utility_backup_table_backupsize'] = 'Backup storlek';
 $lang['utility_backup_table_backupdate'] = 'Datum';
 $lang['utility_db_backup_note']          = 'Obs: På grund av den tid och det minne som är tillgängligt för PHP är möjligheten att utföra backup begränsad, att säkerhetskopiera mycket stora databaser kan ibland inte vara möjligt. Om databasen är mycket stor kan du behöva säkerhetskopiera direkt från din SQL Server via kommandoraden , eller låta din server admin göra det åt dig om du inte har administratörsbehörighet..';
 $lang['delete_backups_older_then']       = 'Automatiskt ta bort säkerhetskopior äldre än X dagar (ange 0 för att avaktivera)';
+$lang['auto_backup_hour']                = 'Hour of day to perform backup';

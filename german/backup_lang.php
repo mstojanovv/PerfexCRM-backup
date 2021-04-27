@@ -15,3 +15,4 @@ $lang['utility_backup_table_backupsize'] = 'Backup Größe';
 $lang['utility_backup_table_backupdate'] = 'Datum';
 $lang['utility_db_backup_note']          = 'Notiz: Wegen Limits der Ausführungszeit und verfügbarem PHP-RAM, könnte das Backup von sehr große DBs nicht funktionieren. Wenn die Datenbank sehr groß ist, empfiehlt es sich, das Backup direkt vom SQL Server oder via CLI zu erstellen. Alternativ sollte das der Server Admin tun.';
 $lang['delete_backups_older_then']       = 'Backups älter als X Tage automatisch löschen (0 zum deaktivieren)';
+$lang['auto_backup_hour']                = 'Hour of day to perform backup';

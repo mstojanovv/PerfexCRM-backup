@@ -15,3 +15,4 @@ $lang['utility_backup_table_backupsize'] = 'Veľkosť zálohy';
 $lang['utility_backup_table_backupdate'] = 'Dátum';
 $lang['utility_db_backup_note']          = 'Pozn.: Vzhľadom k limitom PHP nemusí byť zálohovanie príliš veľkej databázy možné. Ak je databáza príliš veľká, budete musieť vykonať zálohu priamo z SQL servera pomocou príkazového riadku alebo požiadať svojho administrátora.';
 $lang['delete_backups_older_then']       = 'Automaticky odstrániť zálohu staršiu ako X dní (nastavte 0 pre vypnutie)';
+$lang['auto_backup_hour']                = 'Hour of day to perform backup';

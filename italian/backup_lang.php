@@ -14,3 +14,4 @@ $lang['utility_backup_table_backupsize'] = 'Dimensione Backup';
 $lang['utility_backup_table_backupdate'] = 'Data';
 $lang['utility_db_backup_note']          = 'Nota: Dato il limite del tempo di esecuzione e la memoria disponibile per PHP, potrebbe non essere possibile eseguire il backup di un database molto grande. Se il database è molto grande potrebbe essere necessario eseguire il backup direttamente dal server SQL tramite la riga di comando, o il vostro amministratore di server potrebbe farlo per voi, se non si dispone di privilegi di root.';
 $lang['auto_backup_options_updated']     = 'Opzione backup automatico aggiornata';
+$lang['auto_backup_hour']                = 'Hour of day to perform backup';

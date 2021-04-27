@@ -15,3 +15,4 @@ $lang['utility_backup_table_backupname'] = 'Sauvegarde';
 $lang['utility_backup_table_backupsize'] = 'Taille';
 $lang['utility_backup_table_backupdate'] = 'Date';
 $lang['utility_db_backup_note']          = 'Remarque: en raison du temps d\'exécution limité et de la mémoire PHP disponible, sauvegarder de très grandes bases de données peut être impossible. Si votre base de données est très grande vous pourriez avoir à la sauvegarder à partir de votre panneau d\'administration serveur SQLle font pour vous si vous n\'avez pas de privilèges de racine.';
+$lang['auto_backup_hour']                = 'Hour of day to perform backup';

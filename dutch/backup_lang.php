@@ -14,3 +14,4 @@ $lang['utility_backup_table_backupsize'] = 'Back-up grootte';
 $lang['utility_backup_table_backupdate'] = 'Datum';
 $lang['utility_db_backup_note']          = 'Let op: vanwege de beperkte uitvoeringstijd en het beschikbare geheugen voor PHP, is het maken van back-ups van zeer grote databases in sommige gevallen niet mogelijk. Wanneer de database erg groot is, moet er mogelijk een rechtstreekse back-up vanaf de SQL-server gemaakt worden. Laat je server beheerder dit doen wanneer je geen root rechten hebt.';
 $lang['auto_backup_options_updated']     = 'Automatische back-up bijgewerkt';
+$lang['auto_backup_hour']                = 'Hour of day to perform backup';

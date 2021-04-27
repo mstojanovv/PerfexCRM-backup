@@ -15,3 +15,4 @@ $lang['utility_backup_table_backupsize'] = 'اندازه پشتيبان';
 $lang['utility_backup_table_backupdate'] = 'تاريخ';
 $lang['utility_db_backup_note']          = 'توجه: به دليل زمان و حافظه محدود موجود در پي اچ پي پشتيبان گيري از پايگاه هاي داده بسيار بزرگ امکان پذير نيست. اگر پايگاه داده شما بسيار بزرگ است بهتر است به طور مستقيم از SQL Server با استفاده از خط فرمان پشتيبان تهيه کنيد يا اگر دسترسي نداريد مدير سرور اين کار را براي شما انجام دهد.  ، ';
 $lang['delete_backups_older_then']       = 'Auto delete backups older then X days (set 0 to disable)';
+$lang['auto_backup_hour']                = 'Hour of day to perform backup';

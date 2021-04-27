@@ -15,3 +15,4 @@ $lang['utility_backup_table_backupsize'] = 'Dung lượng';
 $lang['utility_backup_table_backupdate'] = 'Ngày';
 $lang['utility_db_backup_note']          = 'Lưu ý: giới hạn của tốc độ xử lý và bộ nhớ PHP không cho phép sao lưu dữ liệu có dung lượng quá lớn. Nếu dữ liệu của bạn quá lớn, bạn sẽ cần sao lưu trực tiếp từ máy chủ SQL thông qua dòng lệnh, hoặc nhờ đến người quản trị nếu bạn không có thẩm quyền.';
 $lang['delete_backups_older_then']       = 'Tự động xóa dữ liệu dự phòng cũ hơn X ngày (đặt 0 để vô hiệu hóa)';
+$lang['auto_backup_hour']                = 'Hour of day to perform backup';

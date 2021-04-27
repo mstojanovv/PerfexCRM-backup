@@ -15,3 +15,4 @@ $lang['utility_backup_table_backupsize'] = 'El tamaño de la copia de seguridad'
 $lang['utility_backup_table_backupdate'] = 'Fecha';
 $lang['utility_db_backup_note']          = 'Nota: Debido al tiempo de ejecución limitado y memoria disponible para pHP, las copias de seguridad de una base de datos muy grande pueden no ser posibles. Si su base de datos es muy grande, es posible que necesite hacer copias de seguridad directamente desde su servidor sQL a través de la línea de comandos, o que su administrador del servidor lo haga por usted.';
 $lang['delete_backups_older_then']       = 'Borrado automático de backups con más de X días de antigüedad (0 para desactivar)';
+$lang['auto_backup_hour']                = 'Hour of day to perform backup';

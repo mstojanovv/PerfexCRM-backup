@@ -15,3 +15,4 @@ $lang['utility_backup_table_backupsize'] = 'Backup marime';
 $lang['utility_backup_table_backupdate'] = 'Data';
 $lang['utility_db_backup_note']          = 'Notă: datorită timpului de execuție limitat și a memoriei disponibile pentru PHP, este posibil ca backup-ul bazelor de date foarte mari să nu fie posibil. Dacă baza de date este foarte mare, este posibil să aveți nevoie să faceți o copie de rezervă directă de la serverul dvs. de tip SQL prin intermediul liniei de comandă sau să o faceți administratorului de server pentru dvs. dacă nu aveți privilegii de root.';
 $lang['delete_backups_older_then']       = 'È˜tergeti automat copii de rezerva mai vechi decat X zile (setati 0 pentru a dezactiva)';
+$lang['auto_backup_hour']                = 'Hour of day to perform backup';
